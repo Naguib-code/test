@@ -1,0 +1,18 @@
+{
+    "activities":[
+        {
+            "id":"1",
+            "image":"https://www.surfertoday.com/images/stories/skimair.jpg",
+            "name":"Surf Survivor",
+            "duree":"00:00:36",
+            "category":"Surfant"
+        },
+        {
+            "id":"2",
+            "image":"https://lh3.googleusercontent.com/proxy/s_GMzrQ_yJbzj25anfBSg22IChwvtmQUDWW-ujlTkPohFqHzB8nPldZCoCYcgmjWrpsmz1zfAMlKqj_Lk_4tgZMPO4KXkoLmYLVPAMHsxwagMYX5aJH8XvkBu6WHWvFbt-iEScmNRU52NbDzEjSzNEPxF_lrcMrDX-aydQdVo9CuICraMAcuiVFr6sjVKSUNm3FJ9cPYZn4ug6amS33XMZLHwo98QiTiHJRIgBWUvrR660sieNx5KQ02PrUhQUkesEbkTGKSbIL2_oQZUHvLCOXgrnNYsRn1X9rglIuJnokwi7JtI4Hc7wmnTr-ZESxh-_Da6XSn_2zw67Ml1eO2AslGY0ggZOtjeUbujGYE2aLmSH_lkfjyFcyPzWIWDOZzLHs0yQ",
+            "name":"Football",
+            "duree":"00:30:36",
+            "category":"Foot"
+        }
+    ]
+}
